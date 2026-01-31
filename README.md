@@ -67,3 +67,6 @@ Changing the button styling
 Adding additional color formats (RGB, HSL, etc.)
 
 Implementing color history or favorite colors
+
+
+⚠️ This is a practice project created while learning web development fundamentals.
